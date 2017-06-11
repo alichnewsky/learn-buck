@@ -1,0 +1,7 @@
+{
+  "name": "learn-buck",
+  "dependencies": {
+    "gabime/spdlog": "0.13.0",
+    "ericniebler/range-v3": "1.0.0"
+  }
+}
